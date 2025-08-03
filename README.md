@@ -4,17 +4,17 @@
   <img src="https://github.com/pawanyadv03/pawanyadv03/blob/main/Github_banner_pawan.png" alt="Pawan Banner">
 </div>
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
+<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsbhaiya5567" target="_blank">PawanYadav</a></h3>
 
 <p align="center">
   <a href="https://github.com/pawanyadv03">
     <img src="https://img.shields.io/github/followers/pawanyadv03?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@devopsshack">
+  <a href="https://www.youtube.com/@devopsbhaiya5567">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
   </a>
   <a href="https://linkedin.com/in/pawanyadv976">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Pawan%20Yadav-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pawanyadv03](https://github.com/pawanyadv03)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **office@devopsshack.com**
+- 📫 How to reach me **pawanyadv03@gmail.com**
 
 ---
 
